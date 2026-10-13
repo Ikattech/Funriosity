@@ -8,6 +8,7 @@ mundo real e um jogo com regras próprias seja apenas uma questão de parametriz
 
 A engine evolui, partindo de modelos simples e avançando até a simulação quântica completa.
 
+
 Objetivos
 - [ ] Engine 2D simples de física clássica, Cálculo I e mecânica clássica
 - [ ] Integração numérica de equações de movimento, EDOs
@@ -19,6 +20,8 @@ Objetivos
 - [ ] Núcleo de simulação baseado em mecânica quântica
 - [ ] Interface de programação para criação de jogos e softwares
 - [ ] Documentação e exemplos de uso para desenvolvedores
+
+
 
 Nota final
 
