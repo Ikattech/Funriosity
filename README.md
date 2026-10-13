@@ -23,6 +23,6 @@ Objetivos
 
 
 
-#Nota final
+# Nota final
 
 Projeto de longo prazo. Os objetivos não seguem ordem fixa e podem ser executados em paralelo, conforme a evolução de cada componente.
